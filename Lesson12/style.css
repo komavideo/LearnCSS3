@@ -1,0 +1,13 @@
+ul {
+    /* list-style-type: circle;
+    list-style-position: inside;
+    list-style-image: url(listicon.png); */
+    list-style: circle inside url(listicon.png);
+}
+
+ol {
+    /* list-style-type: upper-alpha; */
+    /* list-style-type: lower-greek; */
+    /* list-style-type: lower-roman; */
+    list-style-type: none;
+}
