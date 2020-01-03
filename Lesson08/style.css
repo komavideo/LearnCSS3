@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+h1 {
+    font-family: 'AR DELANEY', Courier, monospace;
+}
+
+p.css01 {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+p.css02 {
+    font-family: serif;
+    font-size: 24px;
+}
+
+p.css03 {
+    font-family: Tahoma, monospace;
+    font-size: 24px;
+}
