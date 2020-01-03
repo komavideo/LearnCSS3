@@ -1,0 +1,18 @@
+p {
+    margin: 0;
+}
+
+.p1 {
+    background-color: skyblue;
+}
+
+.p2 {
+    background-color: bisque;
+    margin: 20px;
+    border: 10px solid red;
+    padding: 30px;
+}
+
+.p3 {
+    background-color: aquamarine;
+}
