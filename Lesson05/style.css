@@ -1,0 +1,8 @@
+body {
+    color: red; /* 可继承 */
+    border: 3px solid green; /* 不可继承 */
+}
+
+h1 {
+    border: inherit;
+}
